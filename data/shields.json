@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Gondor's shield",
+        "img": "items/shield_gondor.jpg",
+        "price": 400
+    },
+    {
+        "name": "Elven shield",
+        "img": "items/shield_elf.jpg",
+        "price": 700
+    },
+    {
+        "name": "Elven shield",
+        "img": "items/shield_elf_2.jpg",
+        "price": 800
+    },
+    {
+        "name": "Orc's shield",
+        "img": "items/shield_orcs.jpg",
+        "price": 300
+    },
+    {
+        "name": "Leather shield",
+        "img": "items/shield_boromir.jpg",
+        "price": 300
+    }
+]

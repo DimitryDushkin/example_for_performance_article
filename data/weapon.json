@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Sword of Traduil",
+        "img": "items/tranduil.jpg",
+        "price": 1000
+    },
+    {
+        "name": "Short Dagger",
+        "img": "items/short_dagger.jpg",
+        "price": 10
+    },
+    {
+        "name": "Orc's Sword",
+        "img": "items/orcs_sword.jpg",
+        "price": 100
+    },
+    {
+        "name": "Glamdring",
+        "img": "items/glamdring.jpg",
+        "price": 2000
+    },
+    {
+        "name": "Metal Glove",
+        "img": "items/saurons_glove",
+        "price": 20
+    },
+    {
+        "name": "\"Sting\" Short Sword",
+        "img": "items/sting.jpg",
+        "price": 1500
+    },
+    {
+        "name": "Old stylish sword",
+        "img": "items/morgul.jpg",
+        "price": 100
+    },
+    {
+        "name": "Fancy bow",
+        "img": "items/tauriel.jpg",
+        "price": 300
+    }
+]

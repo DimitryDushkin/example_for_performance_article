@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Elven Battle Armor",
+        "img": "items/cloth_battle.jpg",
+        "price": 1400
+    },
+    {
+        "name": "Elven Clothes",
+        "img": "items/cloth_elves.jpg",
+        "price": 1000
+    },
+    {
+        "name": "Elven Clothes",
+        "img": "items/cloth_elves_2.jpg",
+        "price": 1000
+    },
+    {
+        "name": "Battle Clothes",
+        "img": "items/cloth_faramir.jpg",
+        "price": 2000
+    },
+    {
+        "name": "Hobbit Clothes",
+        "img": "items/cloth_hobbit.jpg",
+        "price": 400
+    },
+    {
+        "name": "Casual Female Clothes",
+        "img": "items/cloth_1.jpg",
+        "price": 200
+    },
+    {
+        "name": "Casual Male Clothes",
+        "img": "items/cloth_2.jpg",
+        "price": 200
+    }
+]
